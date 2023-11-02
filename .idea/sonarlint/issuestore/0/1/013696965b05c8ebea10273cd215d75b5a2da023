@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÊìÃ‹¹1
+Š
+java:S1319 "mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(è¹÷8ïÔÅ‹¹1
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ù¥š‡şÿÿÿÿ8ÜìÃ‹¹1
+f
+java:S2095("DUse try-with-resources or close this "Stream" in a "finally" clause.(Ù¥š‡şÿÿÿÿ8ÜìÃ‹¹1
+G	java:S106"+Replace this use of System.out by a logger.(•şÀÄ8ßìÃ‹¹1
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8âìÃ‹¹1
